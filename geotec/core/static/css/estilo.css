@@ -1,0 +1,53 @@
+.bg{
+	background-color: #A9A9A9;
+	padding: 10px;
+
+}
+.bgcontato{
+	background-color: #e8ebee;
+	padding: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.pr{
+	background-color: #38383c;
+	color: white;
+}
+
+.text:hover{
+	
+	background-color: #ffffff;
+	color:#5b6268;
+	text-decoration: none;
+}
+
+
+
+	
+}
+
+.margem{
+
+}
+
+
+h1,h2{
+	margin-top: 30px;
+	text-align: center;
+	background-color: #5b6268;
+	color:#FFFFFF;
+
+	padding: 5px;
+}
+
+
+
+footer{
+
+	background-color: #5b6268;
+	color: #FFFFFF;
+	padding: 5px;
+}
+

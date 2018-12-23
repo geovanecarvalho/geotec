@@ -1,0 +1,1 @@
+web: gunicorn geotec.wsgi --log-file -
